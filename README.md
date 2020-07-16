@@ -20,6 +20,11 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of my a
 - [x] 15 mile ride
 - [ ] 20 mile ride
 - [ ] 25 mile ride
+- [x] 50 cumulative miles
+- [x] 100 cumulative miles
+- [x] 250 cumulative miles
+- [ ] 500 cumulative miles
+- [ ] 1000 cumulative miles
 
 ## Time
 

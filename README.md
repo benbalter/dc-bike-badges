@@ -40,7 +40,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
   - [x] Bike in NW
   - [x] Bike in SE
   - [x] Bike in SW
-  - [x] All four quadrants in a single ride
+  - [x] Bike all four quadrants in a single ride
 - [x] Bike in Virginia
 - [x] Bike in Maryland
 - [x] Bike East of the Anacostia

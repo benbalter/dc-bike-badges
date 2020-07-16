@@ -1,6 +1,6 @@
 # DC Bike Badges
 
-_[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of my adventures of biking in DC. [Suggestions welcome](https://github.com/benbalter/dc-bike-badges/edit/master/README.md)._
+_[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my adventures](https://www.strava.com/athletes/benbalter) of biking in DC. [Suggestions welcome](https://github.com/benbalter/dc-bike-badges/edit/master/README.md)._
 
 ## Trails
 

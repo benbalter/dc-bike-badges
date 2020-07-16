@@ -69,7 +69,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [ ] Bike at night
 - [ ] Group ride
 - [ ] Learn to properly lock bike
-- [ ] Join WABA
+- [X] Join WABA
 
 ## Neighborhoods
 

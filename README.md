@@ -8,7 +8,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [ ] Anacostia Stream Valley Trail
 - [x] Capital Crescent Trail
 - [ ] Custis Trail (I-66 Trail)
-- [ ] Four Mile Run Trail
+- [x] Four Mile Run Trail
 - [x] Metropolitan Branch Trail
 - [x] Mount Vernon Trail
 - [x] Rock Creek Trail
@@ -50,6 +50,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Bike in Maryland
 - [x] Bike East of the Anacostia
 - [ ] Bike on the west coast
+- [ ] Bike in the midwest
 - [ ] Bike in another country
 
 ## Destinations
@@ -83,7 +84,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [ ] Group social ride
 - [ ] Group pacey ride
 - [ ] Learn to properly lock bike
-- [X] Join WABA
+- [X] Join the Washington Area Bicyclist Association
 - [ ] Join a cycling club/get liability insurance
 
 ## Neighborhoods

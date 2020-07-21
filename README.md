@@ -20,11 +20,15 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] 15 mile ride
 - [ ] 20 mile ride
 - [ ] 25 mile ride
+- [ ] 50 mile ride
+- [ ] 100 km ride (metric century)
+- [ ] 100 mile ride (century)
 - [x] 50 cumulative miles
 - [x] 100 cumulative miles
 - [x] 250 cumulative miles
 - [ ] 500 cumulative miles
 - [ ] 1000 cumulative miles
+- [ ] 5000 cumulative miles (annual)
 
 ## Time
 
@@ -32,6 +36,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] 60 minute ride
 - [x] 90 minute ride
 - [ ] 2 hour ride
+- [ ] 4 hour ride
 
 ## Locations
 
@@ -44,6 +49,8 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Bike in Virginia
 - [x] Bike in Maryland
 - [x] Bike East of the Anacostia
+- [ ] Bike on the west coast
+- [ ] Bike in another country
 
 ## Destinations
 
@@ -60,6 +67,8 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Bike to a friend
 - [x] Bike to pick something up
 - [x] Bike to drop something off
+- [ ] Bike an event (sportive, audax, race)
+- [ ] Bike to a holiday destination
 
 ## Misc
 
@@ -67,9 +76,15 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Bike over water
 - [x] Bike through a tunnel
 - [ ] Bike at night
-- [ ] Group ride
+- [ ] Ride into sunset
+- [ ] Ride into sunrise
+- [ ] Ride through the night
+- [ ] Learn [group ride ettiquete](https://www.bikeradar.com/advice/fitness-and-training/how-to-ride-in-a-group/)
+- [ ] Group social ride
+- [ ] Group pacey ride
 - [ ] Learn to properly lock bike
 - [X] Join WABA
+- [ ] Join a cycling club/get liability insurance
 
 ## Neighborhoods
 
@@ -88,9 +103,22 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 
 - [x] Adjust handlebars
 - [ ] Degrease and lube chains
+- [ ] Check/replace brake pads
+- [ ] Tune rear/front derailleur
+- [ ] Learn to wrap and replace bartape (this is a fun one)
+- [ ] Replace a cassette
+- [ ] Size and replace a chain
+- [ ] True a wheel
+- [ ] Replace a spoke
 
 ## Things you don't want to happen
 
 - [x] Get a flat
 - [x] Fix slipped bike chain
 - [x] Fall
+- [x] Cause a crash
+- [ ] Snap a spoke
+- [ ] Snap a chain
+- [ ] Knock rear derailleur out of alignment
+- [ ] Sheer a chainring bolt
+- [ ] Realise you've not locked your bike correctly after leaving it

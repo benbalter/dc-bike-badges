@@ -12,13 +12,14 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Metropolitan Branch Trail
 - [x] Mount Vernon Trail
 - [x] Rock Creek Trail
+- [x] W&OD Trail
 
 ## Distance
 
 - [x] 5 mile ride
 - [x] 10 mile ride
 - [x] 15 mile ride
-- [ ] 20 mile ride
+- [x] 20 mile ride
 - [ ] 25 mile ride
 - [ ] 50 mile ride
 - [ ] 100 km ride (metric century)
@@ -35,7 +36,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] 30 minute ride
 - [x] 60 minute ride
 - [x] 90 minute ride
-- [ ] 2 hour ride
+- [x] 2 hour ride
 - [ ] 4 hour ride
 
 ## Locations
@@ -61,7 +62,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Bike to Crystal City
 - [x] Bike to Old Town
 - [x] Bike to the National Arboretum
-- [ ] Bike partner's commute
+- [x] Bike partner's commute
 
 ## Purposes
 
@@ -77,13 +78,13 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Bike over water
 - [x] Bike through a tunnel
 - [ ] Bike at night
-- [ ] Ride into sunset
+- [x] Ride into sunset
 - [ ] Ride into sunrise
 - [ ] Ride through the night
 - [ ] Learn [group ride ettiquete](https://www.bikeradar.com/advice/fitness-and-training/how-to-ride-in-a-group/)
 - [ ] Group social ride
 - [ ] Group pacey ride
-- [ ] Learn to properly lock bike
+- [x] Learn to properly lock bike
 - [X] Join the Washington Area Bicyclist Association
 - [ ] Join a cycling club/get liability insurance
 
@@ -103,7 +104,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 ## Maintenance
 
 - [x] Adjust handlebars
-- [ ] Degrease and lube chains
+- [x] Degrease and lube chains
 - [ ] Check/replace brake pads
 - [ ] Tune rear/front derailleur
 - [ ] Learn to wrap and replace bartape (this is a fun one)

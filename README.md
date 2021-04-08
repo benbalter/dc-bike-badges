@@ -7,7 +7,7 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Anacostia Riverwalk Trail
 - [ ] Anacostia Stream Valley Trail
 - [x] Capital Crescent Trail
-- [ ] Custis Trail (I-66 Trail)
+- [x] Custis Trail (I-66 Trail)
 - [x] Four Mile Run Trail
 - [x] Metropolitan Branch Trail
 - [x] Mount Vernon Trail
@@ -20,14 +20,14 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] 10 mile ride
 - [x] 15 mile ride
 - [x] 20 mile ride
-- [ ] 25 mile ride
+- [x] 25 mile ride
 - [ ] 50 mile ride
 - [ ] 100 km ride (metric century)
 - [ ] 100 mile ride (century)
 - [x] 50 cumulative miles
 - [x] 100 cumulative miles
 - [x] 250 cumulative miles
-- [ ] 500 cumulative miles
+- [x] 500 cumulative miles
 - [ ] 1000 cumulative miles
 - [ ] 5000 cumulative miles (annual)
 
@@ -97,15 +97,15 @@ _[Gamification](https://en.wikipedia.org/wiki/Achievement_(video_games)) of [my 
 - [x] Adam's Morgan
 - [x] Columbia Heights
 - [x] NoMa
-- [ ] Dupont
-- [ ] Shaw
-- [ ] Logan Circle 
+- [x] Dupont
+- [x] Shaw
+- [x] Logan Circle 
 
 ## Maintenance
 
 - [x] Adjust handlebars
 - [x] Degrease and lube chains
-- [ ] Check/replace brake pads
+- [x] Check/replace brake pads
 - [ ] Tune rear/front derailleur
 - [ ] Learn to wrap and replace bartape (this is a fun one)
 - [ ] Replace a cassette
